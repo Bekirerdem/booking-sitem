@@ -1,6 +1,8 @@
-@import "normalize";
+@import "config/variable";
+@import "config/mixin";
 //
-@import "variable";
-@import "global";
+@import "helper/normalize";
+@import "helper/global";
 //
-@import "header";
+@import "global/header";
+@import "global/navigation";
