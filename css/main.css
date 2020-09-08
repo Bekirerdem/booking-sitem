@@ -547,4 +547,28 @@ button {
   margin-right: 20px;
   font-size: 0.86em;
 }
+
+.Showcase {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #083B87;
+  align-items: center;
+  color: white;
+}
+
+.Search {
+  background-color: #FBBE00;
+  padding: 40px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+.Search-form {
+  position: relative;
+  display: flex;
+}
+
+.Search .asd {
+  position: absolute;
+  right: 0;
+}
 /*# sourceMappingURL=main.css.map */
